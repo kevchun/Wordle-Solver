@@ -7,4 +7,5 @@ Credits to @tabatkins for their list of possible wordle words https://github.com
 4) Hit "Submit". <br>
 5) Look at B3 to F3 for the next suggested word.<br>
 6) Repeat steps 2-5 until you solve the word on Wordle!
+7) Hit the "Restart" button!
 
